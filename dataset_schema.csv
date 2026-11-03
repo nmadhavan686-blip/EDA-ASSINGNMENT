@@ -1,0 +1,16 @@
+column,observed_dtype,description
+post_id,string,Unique post identifier
+platform,category,Social media platform
+content_type,category,Type of content
+topic,category,Post topic
+language,category,Language code
+region,category,Region
+post_datetime,datetime-like,Post date and time
+hashtags,string,Hashtags associated with the post
+views,integer,Number of views
+likes,integer,Number of likes
+comments,integer,Number of comments
+shares,integer,Number of shares
+engagement_rate,float,Engagement rate
+sentiment_score,float,Sentiment score
+is_viral,integer,Viral indicator
